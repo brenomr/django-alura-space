@@ -1,6 +1,9 @@
 # Created by https://www.toptal.com/developers/gitignore/api/django
 # Edit at https://www.toptal.com/developers/gitignore?templates=django
 
+# To avoid too much static files on repository, aka: css, fonts, img, js, assets etc
+static/
+
 ### Django ###
 *.log
 *.pot
